@@ -1,6 +1,6 @@
 package hackerRank;
 import java.util.Scanner;
-public class _2_Java_Stdin_And_Stdout_I {
+public class _02_Java_Stdin_And_Stdout_I {
 	public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int a = scan.nextInt();

@@ -1,6 +1,6 @@
 package hackerRank;
 import java.util.Scanner;
-public class _3_Java_If_else {
+public class _03_Java_If_else {
 	 private static final Scanner scanner = new Scanner(System.in);
 	
 	 public static void main(String[] args) {

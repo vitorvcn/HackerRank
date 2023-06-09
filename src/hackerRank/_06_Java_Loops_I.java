@@ -2,7 +2,7 @@ package hackerRank;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-public class _6_Java_Loops_I {
+public class _06_Java_Loops_I {
 	
 	public static void main(String[] args) throws IOException {
         BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));

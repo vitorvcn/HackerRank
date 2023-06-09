@@ -2,7 +2,7 @@ package hackerRank;
 
 import java.util.*;
 
-public class _7_Java_Loops_II {
+public class _07_Java_Loops_II {
 	public static void main(String[] argh) {
 		Scanner in = new Scanner(System.in);
 		int t = in.nextInt();

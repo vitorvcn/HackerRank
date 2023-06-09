@@ -1,6 +1,6 @@
 package hackerRank;
 import java.util.Scanner;
-public class _5_Java_Output_Formatting {
+public class _05_Java_Output_Formatting {
 
 		public static void main(String[] args) {
 	        Scanner sc=new Scanner(System.in);

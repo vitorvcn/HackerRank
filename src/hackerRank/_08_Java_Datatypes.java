@@ -2,7 +2,7 @@ package hackerRank;
 
 import java.util.Scanner;
 
-public class _8_Java_Datatypes {
+public class _08_Java_Datatypes {
 	public static void main(String []argh)
     {
 
